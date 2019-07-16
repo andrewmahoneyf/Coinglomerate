@@ -1,0 +1,23 @@
+{
+  "name": "coinglomerate",
+  "version": "1.0.0",
+  "description": "Founded in 2017, Coinglomerate LLC offers computation-as-a-service and develops hardware.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "gulp",
+    "deploy": "firebase deploy"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5"
+  }
+}
